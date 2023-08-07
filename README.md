@@ -1,6 +1,4 @@
 # odin-recipes
-Brutalist web design to show the skills I learned on The Odin Project which are the HTML foundations:
--Elements and tags
--Working with text
--Lists
--Links and images
+My first web page about some simple recipes to show the skills I learned on The Odin Project, which are the HTML foundations: Elements and tags, working with text, lists, links and images
+
+Github site: https://joaquingz.github.io/odin-recipes/index.html
